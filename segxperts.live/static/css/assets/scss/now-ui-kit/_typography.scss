@@ -179,7 +179,7 @@ p{
     color: darkgrey;
     cursor: pointer;
     border-radius: 3px;
-    // z-index: 1; /* Ensure button appears above the code */
+    z-index: 1; /* Ensure button appears above the code */
   }
   
 //   .copy-button:hover {
